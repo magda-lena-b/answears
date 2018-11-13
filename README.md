@@ -1,4 +1,4 @@
-# Project answers
+# Project answears
 
 Take theme word and downoads it's wikipedia page along with all linked pages.
 Creates a word2vec model based on this vocabulary and returns 3 closest words to a given one.
